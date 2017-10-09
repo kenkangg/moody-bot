@@ -1,4 +1,4 @@
-### MoodyBot
+# MoodyBot
 https://devpost.com/software/moodybot
 
 ## Inspiration
