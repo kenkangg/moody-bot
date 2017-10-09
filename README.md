@@ -1,3 +1,6 @@
+### MoodyBot
+https://devpost.com/software/moodybot
+
 ## Inspiration
 Have you ever wanted to listen to music based on how you’re feeling? Now, all you need to do is message MoodyBot a picture of yourself or text your mood, and you can listen to the Spotify playlist MoodyBot provides. Whether you’re feeling sad, happy, or frustrated, MoodyBot can help you find music that suits your mood!
 
