@@ -24,3 +24,9 @@ MoodyBot has the potential to have its own app and automatically open the Spotif
 
 ## Built With
 javascript, node.js, cisco-spark, microsoft-emotion-api, spotify
+
+## Credits
+-[Ken Kang](https://github.com/kenkangg)
+-[Amin Mohtashami](https://github.com/Amin-Mohtashami)
+-[Krista Hayakawa](https://github.com/kehayakawa)
+-[Stephanie Stickel](https://github.com/stephstickel)
