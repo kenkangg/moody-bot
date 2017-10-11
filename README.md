@@ -11,7 +11,7 @@ MoodyBot is a Cisco Spark Bot linked with Microsoft’s Emotion API and Spotify�
 Using Cisco Spark, we created a chatbot that takes in portraits and gives the user an optimal playlist based on his or her mood. The chatbot itself was implemented on built.io which controls feeding image data through Microsoft’s Emotion API. Microsoft’s API outputs into a small Node.js server in order to compensate for the limited features of built.io. like it’s limitations when importing modules. From the external server we use moods classified by Microsoft’s API to select a Spotify playlist using Spotify’s Web API which is then sent back to the user on Cisco Spark.
 
 ## Challenges we ran into
-Spotify’s Web API requires a new access token every hour. In the end, we were not able to find a solution to this problem. Our inexperience with Node.js also led to problems with concurrency. We had problems with built.io having limited APIs that hindered our project.
+Spotify’s Web API requires a new access token every hour. In the end, we were not able to find a solution to this problem. Our inexperience with Node.js also led to problems dealing with concurrency. However our biggest obstacle was probably handling Built.io's inability to import node modules in order to work around bugs in their software.
 
 ## Accomplishments that we're proud of
 We were able to code around the fact that built.io would not encoding our images correctly. Built.io also was not able to implement other solutions to this problem that we tried to use.
