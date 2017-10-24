@@ -1,6 +1,8 @@
 # MoodyBot
 https://devpost.com/software/moodybot
 
+## INCOMPLETE: A large part of this project was created on Built.io Flow's platform, however there is no current solution to sharing the project itself or extracting the code from it. The contents of this repository only include a local web-server used to work around the bugs found in Built.io's platform
+
 ## Inspiration
 Have you ever wanted to listen to music based on how you’re feeling? Now, all you need to do is message MoodyBot a picture of yourself or text your mood, and you can listen to the Spotify playlist MoodyBot provides. Whether you’re feeling sad, happy, or frustrated, MoodyBot can help you find music that suits your mood!
 
